@@ -33,3 +33,4 @@ The vulnerability was discovered and exploit was developed on **08/09/2021**, an
  .||...|'   '|..|'  '|..|' .||.   |'....|'   '|...'  '|...' 
 
 ```
+[GitHub](https://github.com/boofsec) · [Twitter](https://twitter.com/boofsec) · [Instagram](https://instagram.com/boofsec)
