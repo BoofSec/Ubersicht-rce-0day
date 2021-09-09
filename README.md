@@ -1,7 +1,8 @@
 # <p align="center">Übersicht RCE 0day</p>
-<p align="center">Unauthenticated remote command execution 0day exploit for Übersicht.</p>
-
-![screenshot](https://raw.githubusercontent.com/BoofSec/Ubersicht-rce-0day/main/poc/screenshot.png)
+<p align="center">
+Unauthenticated remote command execution 0day exploit for Übersicht.
+<img src="https://raw.githubusercontent.com/BoofSec/Ubersicht-rce-0day/main/poc/screenshot.png" />
+</p>
 
 ## Description
 [Übersicht](https://tracesof.net/uebersicht/) is a desktop widget application for macOS. Widgets are easily customizable as they are written using HTML5, and can execute OS shell commands and display their output.
