@@ -7,7 +7,7 @@ Unauthenticated remote command execution 0day exploit for Übersicht.
 
 Übersicht provides a HTTP server exposing an endpoint that's used for widgets to execute OS shell commands. The endpoint is not protected with any form of authentication, meaning if the webserver is exposed to WAN, a remote attacker can execute arbitrary shell commands and gain remote access to the vulnerable system.
 
-The HTTP webserver is listening on port 41416 by default.
+The webserver is listening on port 41416 by default.
 
 
 ## Author
