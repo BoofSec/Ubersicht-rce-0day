@@ -1,4 +1,4 @@
-# Übersicht RCE 0day {style=text-align:center}
+# <p align="center">Übersicht RCE 0day</p>
 <p align="center">Unauthenticated remote command execution 0day exploit for Übersicht.</p>
 
 ![screenshot](https://raw.githubusercontent.com/BoofSec/Ubersicht-rce-0day/main/poc/screenshot.png)
