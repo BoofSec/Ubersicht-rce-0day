@@ -3,7 +3,7 @@ Unauthenticated remote command execution 0day exploit for Übersicht.
 
 
 ## Description
-Übersicht is a desktop widget application for macOS. Widgets are easily customizable as they are written using HTML5, and can execute OS shell commands and display their output.
+[Übersicht](https://tracesof.net/uebersicht/) is a desktop widget application for macOS. Widgets are easily customizable as they are written using HTML5, and can execute OS shell commands and display their output.
 
 Übersicht provides a HTTP server exposing an endpoint that's used for widgets to execute OS shell commands. The endpoint is not protected with any form of authentication, meaning if the webserver is exposed to WAN, a remote attacker can execute arbitrary shell commands and gain remote access to the vulnerable system.
 
